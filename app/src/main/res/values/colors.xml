@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6699FF</color>
+    <color name="colorPrimaryDark">#3366FF</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorFonOsnow">#CCFFFF</color>
+    <color name="colorText">#003333</color>
+    <color name="colorTextDwa">#003366</color>
+    <color name="colorFon">#99FFFF</color>
+
+</resources>
